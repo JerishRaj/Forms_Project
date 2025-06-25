@@ -5,7 +5,7 @@ Welcome to the **Course Registration Form** project! 🚀
 This project demonstrates a fully responsive and aesthetically styled **registration form** using only **HTML5** and **CSS3**. Designed to simulate a modern course enrollment interface, it includes a vibrant UI, interactive validations, custom styling, and accessibility features — perfect for beginners looking to level up their frontend skills! 💻🎨
 
 ## 🧩 Features
-
+```bash
 ✅ **Multi-section form structure**
 ✅ **Personal & Course details input**
 ✅ **Real-time validations for email, password & number fields**
@@ -15,7 +15,7 @@ This project demonstrates a fully responsive and aesthetically styled **registra
 ✅ **Responsive styling using gradients, hover/focus states**
 ✅ **Custom radio buttons & dropdowns**
 ✅ **Form Reset & Submit capabilities**
-
+```
 ## 🌈 Technologies Used
 
 * 🧾 **HTML5** — Structure & semantics
